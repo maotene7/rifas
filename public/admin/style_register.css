@@ -1,0 +1,25 @@
+.ico-user {
+    font-size: 20px;
+    color: #003b5c;
+    margin-left: 5px;
+}
+
+.btn-login {
+    background-color: #003b5c;
+}
+
+.logo {
+    width: 14rem;
+}
+
+.body {
+    width: 100%;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
+
+.col-login {
+    background-color: #ffffff;
+    border-radius: 6px;
+    box-shadow: 2px 2px 22px #ababab;
+}
