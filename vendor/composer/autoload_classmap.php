@@ -31,6 +31,7 @@ return array(
     'App\\Http\\Controllers\\PreciosController' => $baseDir . '/app/Http/Controllers/PreciosController.php',
     'App\\Http\\Controllers\\PromocionalController' => $baseDir . '/app/Http/Controllers/PromocionalController.php',
     'App\\Http\\Controllers\\ReferredController' => $baseDir . '/app/Http/Controllers/ReferredController.php',
+    'App\\Http\\Controllers\\RetreatController' => $baseDir . '/app/Http/Controllers/RetreatController.php',
     'App\\Http\\Controllers\\RifasController' => $baseDir . '/app/Http/Controllers/RifasController.php',
     'App\\Http\\Controllers\\UsuarioController' => $baseDir . '/app/Http/Controllers/UsuarioController.php',
     'App\\Http\\Controllers\\WinnersController' => $baseDir . '/app/Http/Controllers/WinnersController.php',

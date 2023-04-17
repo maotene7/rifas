@@ -63,6 +63,7 @@ class BoletesController extends Controller
      */
     public function store(Request $request)
     {
+
         ////validacion
         $this->validate($request, [
             

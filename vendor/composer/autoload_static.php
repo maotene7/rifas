@@ -576,6 +576,7 @@ class ComposerStaticInite944a801d37a6c3ac82911541f25bdd9
         'App\\Http\\Controllers\\PreciosController' => __DIR__ . '/../..' . '/app/Http/Controllers/PreciosController.php',
         'App\\Http\\Controllers\\PromocionalController' => __DIR__ . '/../..' . '/app/Http/Controllers/PromocionalController.php',
         'App\\Http\\Controllers\\ReferredController' => __DIR__ . '/../..' . '/app/Http/Controllers/ReferredController.php',
+        'App\\Http\\Controllers\\RetreatController' => __DIR__ . '/../..' . '/app/Http/Controllers/RetreatController.php',
         'App\\Http\\Controllers\\RifasController' => __DIR__ . '/../..' . '/app/Http/Controllers/RifasController.php',
         'App\\Http\\Controllers\\UsuarioController' => __DIR__ . '/../..' . '/app/Http/Controllers/UsuarioController.php',
         'App\\Http\\Controllers\\WinnersController' => __DIR__ . '/../..' . '/app/Http/Controllers/WinnersController.php',
